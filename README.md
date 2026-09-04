@@ -1,0 +1,2 @@
+# resourcepack
+tối ưu resourcepack 
